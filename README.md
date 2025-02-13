@@ -1,5 +1,5 @@
 # Calculator app with React Native (Expo) and Tailwind CSS
-You can test out the application here: https://expo.dev/@dhastix
+You can test out the application here: https://expo.san/@sandhya bhat
 
 ## For Development purposes
 - Clone the repository
